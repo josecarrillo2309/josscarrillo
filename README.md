@@ -23,7 +23,8 @@ Bioinformatician and laboratory assistant experienced in omics data processing, 
 
 ### 🚀 Featured Contributions & Projects
 
-- **[plastier](https://github.com/DanielGarbozo/plastier):** Contributor to this Nextflow-based bioinformatics pipeline for biological sequence and genomic data processing.
+- **[plastier](https://github.com/DanielGarbozo/plastier):** **(Contributor)**
+Nextflow-based bioinformatics pipeline for biological sequence and genomic data processing.
 - **Omics & Genetic Analysis Workflows:** Developed custom Python and R scripts for omics data processing, differential expression analysis, and automated genetic report.
 
 ---
@@ -32,4 +33,4 @@ Bioinformatician and laboratory assistant experienced in omics data processing, 
 
 - GitHub: https://github.com/josecarrillo2309
 - LinkedIn: https://www.linkedin.com/in/carrillogarcia2309/
-- Email: carrillogarcia2309@gmail.com
+- Email: jose.carrillo6@unmsm.edu.pe | carrillogarcia2309@gmail.com

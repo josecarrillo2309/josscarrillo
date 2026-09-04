@@ -1,11 +1,5 @@
 # josscarrillo
 
-### Hi there, I'm Jose Carrillo 👋
-
-- 🌱 I'm specialized in **Bioinformatics and Computational Biology**, building reproducible analysis pipelines and data workflows.
-- 👯 I'm actively contributing to projects like [plastier](https://github.com/DanielGarbozo/plastier) and open-source bioinformatics tools.
-- ⚡ Fun fact: I combine wet-lab laboratory background with heavy computational scripting in Python and R for omics data processing.
-
 ---
 
 ### 🧬 About Me

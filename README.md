@@ -6,7 +6,7 @@
 
 Bioinformatician and laboratory assistant experienced in omics data processing, script automation, and pipeline integration. 
 - **Core Focus:** Bioinformatics, Data Analysis, Pipeline Automation, and Genomics.
-- **Research Interests:** Transcriptomics and population genetics.
+- **Research Interests:** Genomics, Transcriptomics and population genetics.
 ---
 
 ### 🛠️ Tech Stack & Tools

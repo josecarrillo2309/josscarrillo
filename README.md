@@ -24,6 +24,7 @@ Bioinformatician and laboratory assistant experienced in omics data processing, 
 ### 🚀 Featured Contributions & Projects
 
 - **[plastier](https://github.com/DanielGarbozo/plastier):** **(Contributor)**
+
 Nextflow-based bioinformatics pipeline for biological sequence and genomic data processing.
 - **Omics & Genetic Analysis Workflows:** Developed custom Python and R scripts for omics data processing, differential expression analysis, and automated genetic report.
 

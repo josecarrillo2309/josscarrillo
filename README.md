@@ -4,8 +4,7 @@
 
 ### 🧬 About Me
 
-Bioinformatician and laboratory assistant experienced in omics data processing, script automation, and pipeline integration. I leverage Python and R to analyze biological datasets, implement version-controlled workflows, and streamline computational pipelines for genomic and genetic analysis.
-
+Bioinformatician and laboratory assistant experienced in omics data processing, script automation, and pipeline integration. 
 - **Core Focus:** Bioinformatics, Data Analysis, Pipeline Automation, and Genomics.
 - **Research Interests:** Transcriptomics and population genetics.
 ---

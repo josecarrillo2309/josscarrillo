@@ -30,6 +30,6 @@ Bioinformatician and laboratory assistant experienced in omics data processing, 
 
 ### 📬 Connect with me
 
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/josecarrillo2309)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/carrillogarcia2309/)
-- Email: [your-email@example.com](carrillogarcia2309@gmail.com)
+- GitHub: https://github.com/josecarrillo2309
+- LinkedIn: https://www.linkedin.com/in/carrillogarcia2309/
+- Email: carrillogarcia2309@gmail.com

@@ -31,16 +31,7 @@ Bioinformatician and laboratory assistant experienced in omics data processing, 
 ### 🚀 Featured Contributions & Projects
 
 - **[plastier](https://github.com/DanielGarbozo/plastier):** Contributor to this Nextflow-based bioinformatics pipeline for biological sequence and genomic data processing.
-- **Omics & Genetic Analysis Workflows:** Developed custom Python and R scripts for omics data processing, differential expression analysis, and automated genetic report generation using VBA and tabular processing.
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
+- **Omics & Genetic Analysis Workflows:** Developed custom Python and R scripts for omics data processing, differential expression analysis, and automated genetic report.
 
 ---
 
